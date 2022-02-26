@@ -28,9 +28,11 @@ YOLO : YOLO stands for You only look once The approach involves a single neural 
 
 * Objective : To detect Sea_sponges from the image.
 
-* Dataset : Created by collecting images of sea sponges from google. ![15](https://user-images.githubusercontent.com/40916194/155854279-09ac1066-222e-44bb-bf26-374bb7486081.jpg)
-
+* Dataset : Created by collecting images of sea sponges from google. 
 
 * LabelImg : It is used to annotate the images. (https://pypi.org/project/labelImg/1.4.0/)
+
+![15](https://user-images.githubusercontent.com/40916194/155854279-09ac1066-222e-44bb-bf26-374bb7486081.jpg)
+
 * ![Result_image](https://user-images.githubusercontent.com/40916194/155854260-81ea8f1d-737a-4641-ae64-d7ae02d654b2.PNG)
 
