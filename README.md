@@ -12,7 +12,9 @@ Object detection is basically a Object localization which identifies the locatio
  * Object Detection involves 3 steps:
  
     1.creating the dataset 
+    
       a. classes 
+      
       b. annotation
       
     2.Model Training (Darknet, Yolov3)
